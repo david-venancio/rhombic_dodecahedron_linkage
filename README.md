@@ -1,2 +1,2 @@
 # rhombic_dodecahedron_linkage
-another shape in paradize / more info: http://david.venancio.free.fr/?q=node/153
+Another shape in paradize / more info: https://www.3dlibre.com/hexagon_fashion
